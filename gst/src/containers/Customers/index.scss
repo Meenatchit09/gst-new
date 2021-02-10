@@ -1,0 +1,33 @@
+
+.screen-stocks {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 40px;
+    .card-title {
+      border-bottom: 1px solid #d6d5d3;
+      background-color: #f6f3ed;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  .card-style {
+    border: 1px solid #d6d5d3;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+  }
+  .green-text {
+    color: #8ccabe;
+  }
+  Form, Table {
+    font-size: 14px;
+  }
+  From.Control {
+    font-size: 14px;
+  }
+  th {
+    font-size: 11px;
+    background-color: #f0f0f0;
+  }
+  .table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+    background-color: #f9f9f9;
+ }
+}
